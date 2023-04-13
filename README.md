@@ -1,3 +1,5 @@
+<img width="1552" alt="image" src="https://user-images.githubusercontent.com/63970475/231889078-b8a90250-ef67-411d-889b-3b872d068c0b.png">
+
 ### Hi there 👋
 
 I'm a passionate individual with a strong interest in technology and innovation. 
