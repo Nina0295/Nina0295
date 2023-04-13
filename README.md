@@ -2,6 +2,7 @@
 
 I'm a passionate individual with a strong interest in technology and innovation. 
 I enjoy exploring new ideas and pushing boundaries to achieve success!
+
 When I'm not coding, I'm enjoy traveling :]
 
 🔭 Currently working on:
