@@ -17,7 +17,9 @@ I'm always on the lookout for new technologies and trends in frontend developmen
 Innovative web applications, particularly those related to gaming or improving user experience, are areas where I'm eager to collaborate.
 
 🤔 Looking for help with:
-I'm keen to learn more about game development, especially in the realm of web-based games, and would appreciate guidance from experienced developers in the field.
+Accessibility: I have substantial experience in enhancing system accessibility, evident in my recent work at Limeade. I'm passionate about creating digital spaces that are inclusive and accessible to all users, regardless of their abilities. I am always keen to further my knowledge in this area and learn new ways to create universally accessible experiences.
+
+Gaming: I'm enthusiastic about the realm of game development, particularly web-based games. As an emerging field full of potential, I am eager to learn from experienced developers in this sector. I'm interested in how we can make gaming experiences more immersive, engaging, and innovative.
 
 💬 Ask me about:
 Feel free to ask me about experience working on various projects, frontend development, accessibility, testing, or their personal interests.
